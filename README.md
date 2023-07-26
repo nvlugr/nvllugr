@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neval</h1>
-<h3 align="center">A passionate software test engineer</h3>
+<h3 align="center">A passionate software tester </h3>
 
 - 🌱 I’m currently learning **Selenium and Java**
 
